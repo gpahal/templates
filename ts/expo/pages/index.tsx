@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 const App: React.FC = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Welcome to Expo from Next.js!</Text>
+      <Text style={styles.text}>Welcome to Expo from Next.js!!!</Text>
     </View>
   );
 };
