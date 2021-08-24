@@ -1,0 +1,30 @@
+node_modules
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+*.log
+*.pnp
+*.pnp.js
+
+# build
+web-build
+web-report
+out
+dist
+build
+
+# debug
+yarn-debug.log*
+yarn-error.log*
+
+# misc
+.DS_Store
+.env*
+
+# editors
+.vscode
+.idea
