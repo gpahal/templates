@@ -1,0 +1,9 @@
+yarn.lock
+
+# misc
+.DS_Store
+.env*
+
+# editors
+.vscode
+.idea
