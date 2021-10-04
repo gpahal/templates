@@ -1,7 +1,7 @@
-import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import { NextPage } from 'next';
 
-const App: React.FC = () => {
+const App: NextPage = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Welcome to Expo from Next.js!!!</Text>
